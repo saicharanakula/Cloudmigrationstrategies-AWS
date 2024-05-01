@@ -50,5 +50,13 @@ Document the migration process, configurations, and operational procedures for f
 Provide ongoing support and monitoring to address any issues that arise post-migration.
 Continuously optimize and refine your AWS environment based on feedback and performance metrics.
 
+![Screenshot (139)](https://github.com/saicharanakula/Cloudmigrationstrategies-AWS/assets/42805601/d2e9b6d0-b674-4dea-b674-4c7b99cbb941)
+
+![Screenshot (140)](https://github.com/saicharanakula/Cloudmigrationstrategies-AWS/assets/42805601/45847aa1-30f4-4735-907a-23f8f8eb95c6)
+
+![Screenshot (138)](https://github.com/saicharanakula/Cloudmigrationstrategies-AWS/assets/42805601/ae308908-1539-41e1-b0ff-6be41d38b121)
+
+
+
 
 
