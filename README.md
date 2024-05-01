@@ -52,7 +52,11 @@ Continuously optimize and refine your AWS environment based on feedback and perf
 
 ![Screenshot (139)](https://github.com/saicharanakula/Cloudmigrationstrategies-AWS/assets/42805601/d2e9b6d0-b674-4dea-b674-4c7b99cbb941)
 
+Here are the steps in the process Not ready, Ready for testing , Test in progress, Ready for cutover, Cutover in progress, and Cutover complete.
+
 ![Screenshot (140)](https://github.com/saicharanakula/Cloudmigrationstrategies-AWS/assets/42805601/45847aa1-30f4-4735-907a-23f8f8eb95c6)
+
+I treated this server as On-premises Server and tried to migrate to cloud.
 
 ![Screenshot (138)](https://github.com/saicharanakula/Cloudmigrationstrategies-AWS/assets/42805601/ae308908-1539-41e1-b0ff-6be41d38b121)
 
