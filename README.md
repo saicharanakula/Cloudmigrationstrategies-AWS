@@ -49,3 +49,7 @@ Document the migration process, configurations, and operational procedures for f
 11. Post-migration Support:
 Provide ongoing support and monitoring to address any issues that arise post-migration.
 Continuously optimize and refine your AWS environment based on feedback and performance metrics.
+
+
+
+![Screenshot (139)](https://github.com/saicharanakula/Cloudmigrationstrategies-AWS/assets/42805601/d18b6419-c3a1-4c0c-b3cd-bb7b0065b5ee)
