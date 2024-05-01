@@ -52,4 +52,3 @@ Continuously optimize and refine your AWS environment based on feedback and perf
 
 
 
-![Screenshot (139)](https://github.com/saicharanakula/Cloudmigrationstrategies-AWS/assets/42805601/d18b6419-c3a1-4c0c-b3cd-bb7b0065b5ee)
